@@ -1,19 +1,23 @@
-<h1 align="center">Hi there, I'm Mohammed El Makhloufi 👋</h1>
-<h3 align="center">🤖 AI & Multimedia Intelligence Master's Student | Morocco</h3>
+# Hi, I'm Mohammed El Makhloufi 👋
 
----
+🎓 Master's student in **Artificial Intelligence & Multimedia Intelligence**  
+📍 Morocco | Currently in M1 – Semester 2
 
-🎓 **M1 – Artificial Intelligence** | Semester 2  
-🔬 Focused on: Deep Learning · Computer Vision · Generative AI · NLP  
-🌱 Currently learning: **Multimodal AI, Federated Learning, Speech Recognition**  
-💡 I love turning research ideas into real projects  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohammed-el-makhloufi/)
+I'm passionate about building intelligent systems — from deep learning and computer vision to NLP and generative AI.
 
----
+## 🧠 What I'm studying
+- Neural Networks & Deep Learning
+- Data Mining & Decision Intelligence
+- Big Data & Metaheuristics
+- Federated Learning & Recommender Systems
 
-### 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+## 🔭 Currently exploring
+- Multimodal Generative AI
+- Automatic Speech Recognition
+- Medical Image Analysis
+
+## 🛠️ Tech Stack
+`Python` `TensorFlow` `PyTorch` `Power BI` `SQL` `OpenCV`
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-el-makhloufi/)
